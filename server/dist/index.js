@@ -32,5 +32,4 @@ const apollo_server_express_1 = require("apollo-server-express");
         console.log('express server started 🥊');
     });
 }))();
-eee;
 //# sourceMappingURL=index.js.map

@@ -21,4 +21,3 @@ import { ApolloServer } from 'apollo-server-express';
 		console.log('express server started 🥊');
 	});
 })();
-eee;
